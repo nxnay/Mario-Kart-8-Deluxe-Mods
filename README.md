@@ -15,7 +15,7 @@ in order to use .bin files for YUZU, it must be placed in the right directory.
 place the mod folder into the right directory
 
 Directory Example;
-***yuzu\load\0100152000022000*******
+***yuzu\load\0100152000022000\ModNameHereFolder\.binFileHere***
 
 Now launch the game, and you will see changes.
 
