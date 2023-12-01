@@ -26,7 +26,7 @@ Once you have downloaded the mod you are searching for.. go to your Yuzu load di
 Place the mod folder into the directory and launch the game. You are done.
 
 
-### IPS Files
+### IPS, pchtxt, etc Files
 Same thing with Common Mod Files.
 
 
