@@ -30,6 +30,19 @@ Place the mod folder into the directory and launch the game. You are done.
 Same thing with Common Mod Files.
 
 
+### Custom Driver Mod Tutorial
+You must pack your mod into a folder properly.
+1. Make a new folder, name it anything of your desire.
+2. Make a new folder inside of your folder, name it *"romfs"*
+3. Make a new folder inside of your *romfs* folder, name it *"Driver"*
+4. Place your .szs file inside of the *Driver* folder, you are done.
+5. Place the folder you named into your *Mod Data Location.*
+
+**you are done.**
+
+
+
+
 ### Downloads + Other
 
 YUZU Download:
